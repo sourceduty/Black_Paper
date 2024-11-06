@@ -26,6 +26,12 @@ Another reason dark backgrounds with light text are popular among programmers is
 ###
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Text Power](https://github.com/sourceduty/Text_Power)
+<br>
+[Document Statistics](https://github.com/sourceduty/Document_Statistics)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

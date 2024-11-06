@@ -32,7 +32,7 @@ On computer monitors, using white text on a dark background has become popular, 
 Another reason dark backgrounds with light text are popular among programmers is that they can reduce glare and are perceived as more energy-efficient on certain displays, particularly OLED screens. With OLED, darker pixels require less power, so dark mode can contribute to battery savings on portable devices. While dark backgrounds are not universally preferred—some people still find light backgrounds more comfortable for readability—the option to switch to a dark theme has become standard in most code editors and development environments. This trend reflects a shift toward customizable interfaces that prioritize user comfort and reduce strain, particularly for tasks that require intense concentration, like programming.
 
 #
-### Optimal Text-Paper Contrast
+### Optimal Text-Background Contrast
 
 | Background Color     | Text Color       | Medium       | Best Use Case               | Benefits                                         |
 |----------------------|------------------|--------------|-----------------------------|--------------------------------------------------|
